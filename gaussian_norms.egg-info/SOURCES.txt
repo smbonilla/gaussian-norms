@@ -1,0 +1,13 @@
+LICENSE.md
+README.md
+setup.py
+csrc/backward.cu
+csrc/computeGaussNorm.cu
+csrc/ext.cpp
+csrc/forward.cu
+gaussian_norms/__init__.py
+gaussian_norms.egg-info/PKG-INFO
+gaussian_norms.egg-info/SOURCES.txt
+gaussian_norms.egg-info/dependency_links.txt
+gaussian_norms.egg-info/requires.txt
+gaussian_norms.egg-info/top_level.txt
